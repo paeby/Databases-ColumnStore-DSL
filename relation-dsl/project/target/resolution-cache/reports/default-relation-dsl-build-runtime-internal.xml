@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="relation-dsl-build"
+		revision="0.1-SNAPSHOT"
+		extra-sbtVersion="0.13"
+		extra-scalaVersion="2.10"
+		conf="runtime-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20160509080834"/>
+	<dependencies>
+		<module organisation="ch.epfl.data" name="sc-purgatory-plugin">
+			<revision name="0.1.2-SNAPSHOT" status="integration" pubdate="20160418223051" resolver="sbt-chain" artresolver="sbt-chain" homepage="" extra-sbtVersion="0.13" extra-scalaVersion="2.10" downloaded="false" searched="true" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<metadata-artifact status="no" details="" size="2879" time="0" location="/Users/prisca/.ivy2/cache/scala_2.10/sbt_0.13/ch.epfl.data/sc-purgatory-plugin/ivy-0.1.2-SNAPSHOT.xml" searched="true" origin-is-local="false" origin-location="https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/data/sc-purgatory-plugin_2.10_0.13/0.1.2-SNAPSHOT/sc-purgatory-plugin-0.1.2-SNAPSHOT.pom"/>
+				<caller organisation="default" name="relation-dsl-build" conf="optional, compile, runtime, runtime-internal" rev="0.1.2-SNAPSHOT" rev-constraint-default="0.1.2-SNAPSHOT" rev-constraint-dynamic="0.1.2-SNAPSHOT" callerrev="0.1-SNAPSHOT" extra-sbtVersion="0.13" extra-scalaVersion="2.10"/>
+				<artifacts>
+					<artifact name="sc-purgatory-plugin" type="jar" ext="jar" status="no" details="" size="24519" time="0" location="/Users/prisca/.ivy2/cache/scala_2.10/sbt_0.13/ch.epfl.data/sc-purgatory-plugin/jars/sc-purgatory-plugin-0.1.2-SNAPSHOT.jar">
+						<origin-location is-local="false" location="https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/data/sc-purgatory-plugin_2.10_0.13/0.1.2-SNAPSHOT/sc-purgatory-plugin-0.1.2-SNAPSHOT.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

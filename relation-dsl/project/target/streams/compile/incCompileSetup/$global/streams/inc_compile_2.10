@@ -1,0 +1,249 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$1.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$2.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$3.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$1.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$2.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$3.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$4.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$5.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$6.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$2.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$3.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$4.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$1.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$2.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$3.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$4.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$5.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$1.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$2.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$3.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$4.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$5.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$.class
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build.class
+binary dependencies:
+9 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.ivy2/cache/scala_2.10/sbt_0.13/ch.epfl.data/sc-purgatory-plugin/jars/sc-purgatory-plugin-0.1.2-SNAPSHOT.jar
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> /Users/prisca/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$defaultSettings$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$defaultSettings$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$defaultSettings$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$4
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$5
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$1$$anonfun$apply$6
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relation$4
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationdeep$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationdeep$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationdeep$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationdeep$4
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationdeep$5
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationgen$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationgen$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationgen$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationgen$4
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build$$anonfun$relationgen$5
+used names:
+81 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> %
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> ++
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> ++=
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> +=
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> :=
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> <init>
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Append
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Build
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Defaults
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> File
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> InitializeInstance
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Keys
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Process
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Project
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> PurgatoryPlugin
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Resolver
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> SCVersion
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> Seq
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> append1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> appendN
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> appendSeq
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> apply
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> canBuildFrom
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> ch
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> classpathDependency
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> collection
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> coreDefaultSettings
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> data
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> defaultSettings
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> dependsOn
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> epfl
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> file
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> generatePlugins
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> generatorSettings
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> inputPackage
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> io
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> java
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> libraryDependencies
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> moduleIDConfigurable
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> outputFolder
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> outputPackage
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> package
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> plugin
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> pluginLibraries
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> projectToRef
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> pure
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> purgatory
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> relation
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> relationdeep
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> relationgen
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> resolvers
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> sbt
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> sc
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> scalaVersion
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> set
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> sonatypeRepo
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> toGroupID
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$1
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$10
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$11
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$12
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$13
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$14
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$15
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$16
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$17
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$18
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$19
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$2
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$20
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$21
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$22
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$23
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$24
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$3
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$4
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$5
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$6
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$7
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$8
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> x$9
+product stamps:
+25 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$1.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$2.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$defaultSettings$3.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$1.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$2.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$3.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$4.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$5.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1$$anonfun$apply$6.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$1.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$2.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$3.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relation$4.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$1.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$2.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$3.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$4.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationdeep$5.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$1.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$2.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$3.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$4.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$relationgen$5.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1462774122000)
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1462774122000)
+source stamps:
+1 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> hash(7f56e1a57c23b2450720ce3dea44242c660a6171)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1387422821000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> lastModified(1430155722000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> lastModified(1430154346000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> lastModified(1430156194000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> lastModified(1430152707000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar -> lastModified(1442390973000)
+/Users/prisca/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> lastModified(1442390930000)
+/Users/prisca/.ivy2/cache/scala_2.10/sbt_0.13/ch.epfl.data/sc-purgatory-plugin/jars/sc-purgatory-plugin-0.1.2-SNAPSHOT.jar -> lastModified(1461011454000)
+/Users/prisca/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/prisca/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> sbt.LinePosition$
+/Users/prisca/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> sbt.impl.DependencyBuilders
+/Users/prisca/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> sbt.Scoped$
+/Users/prisca/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> sbt.Build
+/Users/prisca/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.7.jar -> sbt.Process$
+/Users/prisca/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> sbt.package$
+/Users/prisca/.ivy2/cache/scala_2.10/sbt_0.13/ch.epfl.data/sc-purgatory-plugin/jars/sc-purgatory-plugin-0.1.2-SNAPSHOT.jar -> ch.epfl.data.sc.purgatory.plugin.PurgatoryPlugin$
+/Users/prisca/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.package$
+internal apis:
+1 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDSqiB0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFF9t5V0AAZub3RpZnlzcQB+AAxHpWn1dAALcmVsYXRpb25nZW5zcQB+AAwCLchIdAAEd2FpdHNxAH4ADM9w1/p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGUJyKHQACHJlbGF0aW9uc3EAfgAMUG3VenQADGJ1aWxkTG9hZGVyc3NxAH4ADAo63zZ0AAVCdWlsZHNxAH4ADG7syw10AAZlcXVhbHNzcQB+AAzGEPfjdAAMYXNJbnN0YW5jZU9mc3EAfgAM16Z4onQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADKxciWt0AAxzeW5jaHJvbml6ZWRzcQB+AAwIJ0VpdAANJGlzSW5zdGFuY2VPZnNxAH4ADDBhkA90AAlub3RpZnlBbGxzcQB+AAyNMao2dAALcm9vdFByb2plY3RzcQB+AAwjUtn8dAAMaXNJbnN0YW5jZU9mc3EAfgAM9DgMl3QADHJlbGF0aW9uZGVlcHNxAH4ADCyPYwZ0AAI9PXNxAH4ADGMWXrN0AAVjbG9uZXNxAH4ADAg2srx0AA9kZWZhdWx0U2V0dGluZ3NzcQB+AAxmifuCdAAIdG9TdHJpbmdzcQB+AAx8dF5KdAACIT1zcQB+AAweihOpdAAJU0NWZXJzaW9uc3EAfgAMi9HoUHQACHByb2plY3Rzc3EAfgAMZVgOa3QACGdldENsYXNzc3EAfgAMookqknQAAm5lc3EAfgAM5CPjnnQAAmVxc3EAfgAM7+3/m3QACHNldHRpbmdzc3EAfgAMnz45EHQAAiMjc3EAfgAMuZHxrnQACGZpbmFsaXplc3EAfgAMnZNllXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAbdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aa3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AagBwc3EAfgBvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4Ac3NxAH4AagBwc3EAfgBvdXEAfgBOAAAAAHNxAH4AagBwc3EAfgBvdXEAfgBOAAAAAHNxAH4AagBwc3EAfgBvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAFQnVpbGRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQc3EAfgCDdAAGT2JqZWN0c3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABGphdmFzcQB+AI90AARsYW5ncQB+AJRzcQB+AIN0AANBbnlzcQB+AIdzcQB+AIp1cQB+AI0AAAACc3EAfgCPdAAFc2NhbGFxAH4AlHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUlCG7FHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGMvVXNlcnMvcHJpc2NhL0RvY3VtZW50cy9EYXRhYmFzZXMvc2MtcHVibGljL3JlbGF0aW9uLWRzbC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR/VuGlfCOyRQcgzj3qRCQsZgphcQ==
+external apis:
+0 items
+source infos:
+1 items
+/Users/prisca/Documents/Databases/sc-public/relation-dsl/project/Build.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVJQhuxR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9wcmlzY2EvRG9jdW1lbnRzL0RhdGFiYXNlcy9zYy1wdWJsaWMvcmVsYXRpb24tZHNsL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=

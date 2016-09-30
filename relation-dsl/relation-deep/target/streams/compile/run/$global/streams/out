@@ -1,0 +1,26 @@
+[0m[[0minfo[0m] [0mRunning relation.compiler.Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/Documents/Databases/sc-public/relation-dsl/relation-deep/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/Documents/Databases/sc-public/relation-dsl/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-pardis-compiler_2.11/jars/sc-pardis-compiler_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-pardis-core-compiler_2.11/jars/sc-pardis-core-compiler_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-shared_2.11/jars/sc-shared_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-pardis-library_2.11/jars/sc-pardis-library_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-purgatory-core_2.11/jars/sc-purgatory-core_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-purgatory_2.11/jars/sc-purgatory_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.lamp/scala-yinyang_2.11/jars/scala-yinyang_2.11-0.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.lamp/yinyang-core_2.11/jars/yinyang-core_2.11-0.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-purgatory-quasi_2.11/jars/sc-purgatory-quasi_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-pardis-quasi-core_2.11/jars/sc-pardis-quasi-core_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prisca/.ivy2/cache/ch.epfl.data/sc-pardis-quasi_2.11/jars/sc-pardis-quasi_2.11-0.1.2-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
